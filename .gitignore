@@ -1,0 +1,17 @@
+# Binaries
+build/
+*.exe
+*.o
+*.obj
+*.out
+
+# Generated parser files
+y.tab.c
+y.tab.h
+lex.yy.c
+*.tab.c
+*.tab.h
+
+# IDE
+.vscode/
+.idea/
